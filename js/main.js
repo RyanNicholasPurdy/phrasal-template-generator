@@ -15,3 +15,4 @@ if (story == 'b') {
 
 if (story == 'c') {
   document.write('Jackson chose his ' + adj + ', ' + color + ' ' + creature + ' card and ' + verb + ' it to the table knowing he won.');
+}
